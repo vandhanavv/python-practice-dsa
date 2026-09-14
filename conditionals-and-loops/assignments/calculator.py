@@ -25,7 +25,7 @@ while bool:
         print(a1 % a2)
     elif n == 6:
         bool = False
-        exit()
+        # exit()           # either bool = False or exit() is enough
     else: 
         print("Invalid Operation")
     
