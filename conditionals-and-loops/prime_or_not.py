@@ -15,7 +15,6 @@
 # Method 2: 
 n = int(input("Enter the number: ")) # 10
 d = 2
-flag = False
 while d < n:
     if n % d == 0:
         print("n is not prime")
